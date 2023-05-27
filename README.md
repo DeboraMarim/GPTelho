@@ -26,9 +26,21 @@ Este projeto é uma ótima maneira de explorar a aplicação de NLP em cenários
 1. No terminal use o comando $ git clone https://github.com/DeboraMarim/GPTelho.git
 2. $ cd GPTelho
 3. $ npm install
-4. $ npm run dev
+4. Insira seu token gerado na OpenAi (Veja instruções abaixo)
+5. $ npm run dev
 
 ps: Essa aplicação foi criada usando o framework Vite :)
+
+## Instruções Para Conseguir e inserir seu Token
+1. Vá até a pagina da OpenAi [onde os tokens são gerados] 
+2. (https://platform.openai.com/docs/quickstart/build-your-application) (Precisa estár lohado)
+3. Role até a seguinte sessão: 
+![image](https://github.com/DeboraMarim/GPTelho/assets/54490709/366e352e-dde8-4051-bd27-0fc65678b72d)
+4. Gere e copie o código
+5. Insira o codigo Token no arquivo GPTelho que está dentro do diretório src
+6. Preencha o campo -> apiKey: 'Insira seu código'
+7. Prontinho!
+
 
 # Foi desenvolvido com muito amor e carinho  por uma dev em evolução, apaixonada por programação <3 
 
