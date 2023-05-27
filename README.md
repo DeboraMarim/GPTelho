@@ -26,7 +26,9 @@ Este projeto é uma ótima maneira de explorar a aplicação de NLP em cenários
 1. No terminal use o comando $ git clone https://github.com/DeboraMarim/GPTelho.git
 2. $ cd GPTelho
 3. $ npm install
+4. $ npm run dev
 
+ps: Essa aplicação foi criada usando o framework Vite :)
 
 # Foi desenvollvido com muito amor e carinho  por uma dev em evolução, apaixonada por programação <3 
 
