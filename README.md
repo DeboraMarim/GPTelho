@@ -30,7 +30,7 @@ Este projeto é uma ótima maneira de explorar a aplicação de NLP em cenários
 
 ps: Essa aplicação foi criada usando o framework Vite :)
 
-# Foi desenvollvido com muito amor e carinho  por uma dev em evolução, apaixonada por programação <3 
+# Foi desenvolvido com muito amor e carinho  por uma dev em evolução, apaixonada por programação <3 
 
 ## Tecs Utilizadas 
 
