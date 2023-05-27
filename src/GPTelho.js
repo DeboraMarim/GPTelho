@@ -1,7 +1,7 @@
 import { Configuration, OpenAIApi } from "openai";
 
 const config = new Configuration({
-  apiKey: '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',
+  apiKey: 'coloque seu token',
 });
 
 const openai = new OpenAIApi(config);
